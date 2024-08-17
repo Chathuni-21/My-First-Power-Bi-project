@@ -14,11 +14,14 @@ Gather data from the supermarket regarding the sales of goods with details such 
 
 ###3.Data Modeling
  Use cleaned data to create a structured model in Power BI.
+ 
 ###4. Measures and Calculations
 These range from custom calculations, such as total sales, average sales per customer, and profit margins, to even growth rates, all using a Power BI-specific expression language called DAX. These measures will then be used in your visualizations.
+
 ###5.Building Visualizations
  Design interactive charts, graphs and dashboards in Power BI to bring out the key insights. 
-###6. Dashboard and Report Development
+ 
+###6. Dashboard and Report Development.
  Combine all the visualizations into one dashboard or report. 
 
 
